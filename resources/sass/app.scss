@@ -1,0 +1,27 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.card-yellow{
+    background-color: #FAC05C;
+    border-color: #FAC05C;
+}
+:hover.card-yellow{
+    background-color: #fae25c;
+    border-color: #fae25c;
+}
+
+.card-green{
+    background-color: #00CD98;
+    border-color: #00CD98;
+}
+
+.card-blue{
+    background-color: #74B9FF;
+    border-color: #74B9FF;
+}
