@@ -22,22 +22,26 @@ Sistem pendataan paket/barang masuk dibuat dengan tujuan mempermudah mahasiswa P
 -
 
 #### Technology Stack
--
--
-
+- PHP
+- MySQL
 
 ### Konsep OOP yang digunakan
-
 
 ### Tipe desain pengembangan yang digunakan
 
 ### Hasil dan Pembahasan
 -------------------------
 #### _Use case diagram_
+![use case diagram](https://user-images.githubusercontent.com/60083980/122014318-3e3a1500-cde9-11eb-8db3-13c1e488a0ae.png)
 
 #### _Activity diagram_
+- __Mahasiswa__ <br><br>
+![mahasiswa login](https://user-images.githubusercontent.com/60083980/122015042-f36ccd00-cde9-11eb-9133-45f3e907c58d.png)
+![mahasiswa input resi](https://user-images.githubusercontent.com/60083980/122015062-f5cf2700-cde9-11eb-9ae6-64d1dc5080eb.png)
+![mahasiswa lihat list barang](https://user-images.githubusercontent.com/60083980/122015054-f5369080-cde9-11eb-80e7-39a836967484.png)
+![mahasiswa lihat status barang](https://user-images.githubusercontent.com/60083980/122015134-067f9d00-cdea-11eb-952c-d412ba2dab18.png)
 
-- petugas
+- __Petugas Paket Asrama PPKU__ <br><br>
 ![unnamed (2)](https://user-images.githubusercontent.com/60084300/122013464-67a67100-cde8-11eb-8efa-672b907b52ba.png)
 ![unnamed (3)](https://user-images.githubusercontent.com/60084300/122013469-683f0780-cde8-11eb-9256-f32501cec9fb.png)
 ![unnamed (4)](https://user-images.githubusercontent.com/60084300/122013473-68d79e00-cde8-11eb-9c73-7454870f6704.png)
