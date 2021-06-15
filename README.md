@@ -12,3 +12,54 @@ Sistem pendataan paket/barang masuk dibuat dengan tujuan mempermudah mahasiswa P
 
 “Sebagai penerima paket barang mahasiswa PPKU, saya ingin lebih mudah dalam mengelola paket masuk, sehingga saya dapat mempersingkat waktu yang dibutuhkan untuk mengatur dan menyusun paket.” **— Petugas Pengelola Paket Asrama PPKU**
 
+### Lingkungan Pengembangan
+#### Software
+-
+-
+
+#### Hardware
+-
+-
+
+#### Technology Stack
+-
+-
+
+
+### Konsep OOP yang digunakan
+
+
+### Tipe desain pengembangan yang digunakan
+
+### Hasil dan Pembahasan
+-------------------------
+#### _Use case diagram_
+
+#### _Activity diagram_
+
+#### _Class diagram_
+
+#### _Entity relationship diagram_
+
+#### Arsitektur sistem
+
+#### Fungsi utama yang dikembangkan
+
+#### Fungsi CRUD
+
+
+### Hasil Implementasi
+Screenshot sistem
+
+### Saran untuk pengembangan selanjutnya
+
+### Developer dan job description
+---------------------
+**Nama**|**NIM**|**Job Desc**|
+:-----:|:-----:|:-----:
+Muhammad Habibullah|G64180003|
+Ervina Maharani|G64180011|
+Aqshal Deandra Vandaru|G64180020|
+Khairunnisa|G64180050|
+Riyad Firdaus|G64180089|
+
