@@ -41,8 +41,6 @@ Sistem pendataan paket/barang masuk dibuat dengan tujuan mempermudah mahasiswa P
 
 #### _Entity relationship diagram_
 
-(https://user-images.githubusercontent.com/60084300/122012277-311c2680-cde7-11eb-982f-817140236303.png)
-
 #### Arsitektur sistem
 
 #### Fungsi utama yang dikembangkan
