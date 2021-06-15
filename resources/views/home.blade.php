@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('user.layouts.app')
 
 @section('content')
 <div class="container">
@@ -7,7 +7,7 @@
             <div class="card">
                 <a class="card-body btn btn-warning text-left text-white" href=google.com>
                     <h5 class="card-title">Menunggu</h5>
-                    <h3 class="card-text">5</h3>
+                    <h5 class="card-text">5</h5>
                 </a>
             </div>
         </div>
@@ -15,7 +15,7 @@
             <div class="card">
                 <a class="card-body btn btn-success text-left" href=google.com>
                     <h5 class="card-title">Bisa Diambil</h5>
-                    <h3 class="card-text">5</h3>
+                    <h5 class="card-text">5</h5>
                 </a>
             </div>
         </div>
@@ -23,7 +23,7 @@
             <div class="card">
                 <a class="card-body btn btn-primary text-left" href=google.com>
                     <h5 class="card-title">Telah Diambil</h5>
-                    <h3 class="card-text">5</h3>
+                    <h5 class="card-text">5</h5>
                 </a>
             </div>
         </div>
