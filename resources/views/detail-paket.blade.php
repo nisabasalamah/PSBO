@@ -1,4 +1,4 @@
-@extends('user.layouts.app')
+@extends('layouts.app')
 
 @section('content')
 <div class="container">
@@ -18,14 +18,9 @@
         <div class="card-body">
             <div class="container">
                 <div class="row">
-                    <div class="col-4">No Rak</div>
-                    <div class="col-1">:</div>
-                    <div class="col">3C</div>
-                </div>
-                <div class="row">
                     <div class="col-4">No Resi</div>
                     <div class="col-1">:</div>
-                    <div class="col">P5130834298201312</div>
+                    <div class="col">12345678A</div>
                 </div>
                 <div class="row">
                     <div class="col-4">Nama Barang</div>
@@ -36,7 +31,10 @@
                     <div class="col-4">Deskripsi</div>
                     <div class="col-1">:</div>
                     <div class="col">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis assumenda fugit ab, cumque magnam exercitationem tempora animi, dolores quis suscipit voluptas incidunt ullam quasi odit voluptates reiciendis enim et cum.
+                        12345678A
+                        12345678A
+                        12345678A
+                        12345678A
                     </div>
                 </div>
             </div>

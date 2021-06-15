@@ -19,33 +19,16 @@ Route::get('/', function () {
 });
 
 Route::get('/edit-paket', function () {
-    return view('user/edit-paket');
+    return view('edit-paket');
 });
 
 Route::get('/tambah-paket', function () {
-    return view('user/tambah-paket');
+    return view('tambah-paket');
 });
 
 Route::get('/detail-paket', function () {
-    return view('user/detail-paket');
+    return view('detail-paket');
 });
-
-Route::get('/admin-home', function () {
-    return view('admin/admin-home');
-});
-
-Route::get('/admin-editpaket', function () {
-    return view('admin/admin-editpaket');
-});
-
-Route::get('/admin-tambahpaket', function () {
-    return view('admin/admin-tambahpaket');
-});
-
-Route::get('/admin-detailpaket', function () {
-    return view('admin/admin-detailpaket');
-});
-
 
 Auth::routes();
 
