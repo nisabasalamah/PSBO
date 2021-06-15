@@ -37,6 +37,12 @@ Sistem pendataan paket/barang masuk dibuat dengan tujuan mempermudah mahasiswa P
 
 #### _Activity diagram_
 
+- petugas
+![unnamed (2)](https://user-images.githubusercontent.com/60084300/122013464-67a67100-cde8-11eb-8efa-672b907b52ba.png)
+![unnamed (3)](https://user-images.githubusercontent.com/60084300/122013469-683f0780-cde8-11eb-9256-f32501cec9fb.png)
+![unnamed (4)](https://user-images.githubusercontent.com/60084300/122013473-68d79e00-cde8-11eb-9c73-7454870f6704.png)
+![unnamed (5)](https://user-images.githubusercontent.com/60084300/122013478-69703480-cde8-11eb-97fe-bb338cd6aeb0.png)
+
 #### _Class diagram_
 
 #### _Entity relationship diagram_
