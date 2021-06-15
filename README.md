@@ -42,10 +42,11 @@ Sistem pendataan paket/barang masuk dibuat dengan tujuan mempermudah mahasiswa P
 ![mahasiswa lihat status barang](https://user-images.githubusercontent.com/60083980/122015134-067f9d00-cdea-11eb-952c-d412ba2dab18.png)
 
 - __Petugas Paket Asrama PPKU__ <br><br>
-![unnamed (5)](https://user-images.githubusercontent.com/60084300/122013478-69703480-cde8-11eb-97fe-bb338cd6aeb0.png)
-![unnamed (4)](https://user-images.githubusercontent.com/60084300/122013473-68d79e00-cde8-11eb-9c73-7454870f6704.png)
-![unnamed (2)](https://user-images.githubusercontent.com/60084300/122013464-67a67100-cde8-11eb-8efa-672b907b52ba.png)
-![unnamed (3)](https://user-images.githubusercontent.com/60084300/122013469-683f0780-cde8-11eb-9256-f32501cec9fb.png)
+![petugas lihat data](https://user-images.githubusercontent.com/60084300/122013478-69703480-cde8-11eb-97fe-bb338cd6aeb0.png)
+![petugas edit data](https://user-images.githubusercontent.com/60084300/122013473-68d79e00-cde8-11eb-9c73-7454870f6704.png)
+![petugas update](https://user-images.githubusercontent.com/60084300/122013469-683f0780-cde8-11eb-9256-f32501cec9fb.png)
+![petugas notifikasi](https://user-images.githubusercontent.com/60084300/122013464-67a67100-cde8-11eb-8efa-672b907b52ba.png)
+
 
 
 
