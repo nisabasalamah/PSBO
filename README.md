@@ -30,8 +30,10 @@ Sistem pendataan paket/barang masuk dibuat dengan tujuan mempermudah mahasiswa P
 - MySQL
 
 ### Konsep OOP yang digunakan
+Konsep OOP yang kami gunakan antara lain yaitu Inheritance dan Abstraction. Pada implementasi, kami menggunakan konsep Inheritance dengan kelas 'user' sebagai parent dan kelas 'admin' serta 'mahasiswa' sebagai childnya. Untuk Abstraction sendiri
 
 ### Tipe desain pengembangan yang digunakan
+Tipe desain yang
 
 ### Hasil dan Pembahasan
 -------------------------
@@ -50,8 +52,6 @@ Sistem pendataan paket/barang masuk dibuat dengan tujuan mempermudah mahasiswa P
 ![petugas edit data](https://user-images.githubusercontent.com/60084300/122013473-68d79e00-cde8-11eb-9c73-7454870f6704.png)
 ![petugas update](https://user-images.githubusercontent.com/60084300/122013469-683f0780-cde8-11eb-9256-f32501cec9fb.png)
 ![petugas notifikasi](https://user-images.githubusercontent.com/60084300/122013464-67a67100-cde8-11eb-8efa-672b907b52ba.png)
-
-
 
 
 #### _Class diagram_
@@ -82,10 +82,10 @@ Membuat
 - Halaman Utama
 ![image](https://user-images.githubusercontent.com/56018683/122151711-354d5000-ce8a-11eb-80d6-3078d5d11642.png)
 
--Tambah Paket
+- Tambah Paket
 ![image](https://user-images.githubusercontent.com/56018683/122151744-439b6c00-ce8a-11eb-833d-e7d21a000531.png)
 
--Detail Paket
+- Detail Paket
 ![image](https://user-images.githubusercontent.com/56018683/122151767-501fc480-ce8a-11eb-8212-4ef02601aa21.png)
 
 #### Admin
@@ -98,9 +98,9 @@ Membuat
 ---------------------
 **Nama**|**NIM**|**Job Desc**|
 :-----:|:-----:|:-----:
-Muhammad Habibullah|G64180003|
-Ervina Maharani|G64180011|
-Aqshal Deandra Vandaru|G64180020|
-Khairunnisa|G64180050|
-Riyad Firdaus|G64180089|
+Muhammad Habibullah|G64180003|System Analyst|
+Ervina Maharani|G64180011|UI/UX designer|
+Aqshal Deandra Vandaru|G64180020|Front-End|
+Khairunnisa|G64180050|Back-End|
+Riyad Firdaus|G64180089|Front-End|
 
