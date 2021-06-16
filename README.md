@@ -14,14 +14,18 @@ Sistem pendataan paket/barang masuk dibuat dengan tujuan mempermudah mahasiswa P
 
 ### Lingkungan Pengembangan
 #### Software
--
--
+- Visual Studio Code
+- Figma
+- Google Chrome
 
 #### Hardware
--
--
+- Processor Intel i5-5200U @ 2.20Ghz
+- Memory 8GB RAM
+- VGA Nvidia Geforce 940M
+- Harddisk 1TB
 
 #### Technology Stack
+- Framework: Laravel
 - PHP
 - MySQL
 
@@ -57,15 +61,36 @@ Sistem pendataan paket/barang masuk dibuat dengan tujuan mempermudah mahasiswa P
 ![erd](https://user-images.githubusercontent.com/60083980/122013747-accaa300-cde8-11eb-93d7-5732fb156db5.png)
 
 #### Arsitektur sistem
-Sistem kami menggunakan arsitektur MVC (Model View Controller). MVC adalah gabungan dari 3 sub direktori yakni model, view dan controller. ini ditandakan bahwa laravel sudah menerapkan konsep mvc dalam memisahkan logic-logic program agar lebih teratur dan mudah dikembangakan suatu saat. MOdel adalah model yang mempresentasikan pengetahuan yang dapat berupa single object (jarang dipakai) atau terdiri dari objek-objek terstruktur yang mana tiap objek memiliki fungsi tersendiri sesuai kebutuhan. View merupakan bagian yang menangani presentasion logic yang berfungsi untuk menerima dan mempresentasikan data kepada user. Controller merupakan bagian yang mengatur hubungan antara bagian model dan bagian view yang berfungsi untuk menerima request dan data dari user kemudian menentukan apa yang akan diproses oleh aplikasi.    
+Sistem kami menggunakan arsitektur MVC (Model View Controller). MVC adalah gabungan dari 3 sub direktori yakni model, view dan controller. ini ditandakan bahwa laravel sudah menerapkan konsep mvc dalam memisahkan logic-logic program agar lebih teratur dan mudah dikembangakan suatu saat.
+##### Model
+Model merupakan presentasi dari sebuah objek atau terdiri dari objek-objek terstruktur, yang mana tiap objek memiliki fungsi tersendiri sesuai kebutuhan. 
+
+##### View
+Controller merupakan bagian yang menangani presentasion logic yang berfungsi untuk menerima dan mempresentasikan data kepada user.
+
+##### Controller
+Controller merupakan bagian yang mengatur hubungan antara bagian model dan bagian view yang berfungsi untuk menerima request dan data dari user kemudian menentukan apa yang akan diproses oleh aplikasi.    
 
 #### Fungsi utama yang dikembangkan
 
 #### Fungsi CRUD
-
+1. Create
+Membuat 
 
 ### Hasil Implementasi
-Screenshot sistem
+#### User
+- Halaman Utama
+![image](https://user-images.githubusercontent.com/56018683/122151711-354d5000-ce8a-11eb-80d6-3078d5d11642.png)
+
+-Tambah Paket
+![image](https://user-images.githubusercontent.com/56018683/122151744-439b6c00-ce8a-11eb-833d-e7d21a000531.png)
+
+-Detail Paket
+![image](https://user-images.githubusercontent.com/56018683/122151767-501fc480-ce8a-11eb-8212-4ef02601aa21.png)
+
+#### Admin
+- Halaman Utama
+![image](https://user-images.githubusercontent.com/56018683/122151843-780f2800-ce8a-11eb-9e5b-d72d5b4a42b2.png)
 
 ### Saran untuk pengembangan selanjutnya
 
