@@ -1,12 +1,10 @@
 <?php
 
-namespace app\Http\Controllers;
-use Illuminate\Http\Request;
-use app\user;
-
 namespace App\Http\Controllers;
 
-class HomeController extends Controller
+use Illuminate\Http\Request;
+
+class BarangController extends Controller
 {
     public function __construct()
     {

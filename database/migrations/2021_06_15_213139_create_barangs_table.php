@@ -4,6 +4,7 @@ use Facade\Ignition\Tabs\Tab;
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
+use phpDocumentor\Reflection\Types\Nullable;
 
 class CreateBarangsTable extends Migration
 {
@@ -14,14 +15,14 @@ class CreateBarangsTable extends Migration
      */
     public function up()
     {
-        Schema::create('barangs', function (Blueprint $table) {
-            $table->id();
-            $table->string('no_resi');
+        Schema::create('barang', function (Blueprint $table) {
+            $table->bigIncrements('id');
+            $table->string('no_resi')->unique();
             $table->string('nim');
+            $table->string('nama_barang')->Nullable();
+            $table->text('desc_barang')->nullable();
             $table->integer('status')->default(0);
-            $table->string('rak');
-            $table->string('nama_barang');
-            $table->text('deskripsi_barang')->nullable();
+            $table->string('rak')->nullable();
             $table->timestamps();
         });
     }
@@ -33,6 +34,6 @@ class CreateBarangsTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('barangs');
+        Schema::dropIfExists('barang');
     }
 }
