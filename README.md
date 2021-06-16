@@ -57,6 +57,7 @@ Sistem pendataan paket/barang masuk dibuat dengan tujuan mempermudah mahasiswa P
 ![erd](https://user-images.githubusercontent.com/60083980/122013747-accaa300-cde8-11eb-93d7-5732fb156db5.png)
 
 #### Arsitektur sistem
+Sistem kami menggunakan arsitektur MVC (Model View Controller). MVC adalah gabungan dari 3 sub direktori yakni model, view dan controller. ini ditandakan bahwa laravel sudah menerapkan konsep mvc dalam memisahkan logic-logic program agar lebih teratur dan mudah dikembangakan suatu saat. MOdel adalah model yang mempresentasikan pengetahuan yang dapat berupa single object (jarang dipakai) atau terdiri dari objek-objek terstruktur yang mana tiap objek memiliki fungsi tersendiri sesuai kebutuhan. View merupakan bagian yang menangani presentasion logic yang berfungsi untuk menerima dan mempresentasikan data kepada user. Controller merupakan bagian yang mengatur hubungan antara bagian model dan bagian view yang berfungsi untuk menerima request dan data dari user kemudian menentukan apa yang akan diproses oleh aplikasi.    
 
 #### Fungsi utama yang dikembangkan
 
