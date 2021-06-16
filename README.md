@@ -74,8 +74,10 @@ Controller merupakan bagian yang mengatur hubungan antara bagian model dan bagia
 #### Fungsi utama yang dikembangkan
 
 #### Fungsi CRUD
-1. Create
-Membuat 
+1. Create: Membuat daftar paket barang mahasiswa
+2. Read: Membaca List paket barang mahasiswa
+3. Update: Melakukan edit terhadap paket barang mahasiswa terutama untuk mengubah statu penerimaan paket
+4. Delete: Menghapus paket barang mahasiswa
 
 ### Hasil Implementasi
 #### User
