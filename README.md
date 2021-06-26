@@ -1,5 +1,4 @@
-# Laporan Akhir Projek
-# Pengembangan Sistem Berorientasi Objek
+# Laporan Akhir Projek <br> Pengembangan Sistem Berorientasi Objek
 
 --------------------------------
 
@@ -29,27 +28,29 @@ Sistem pendataan paket/barang masuk dibuat dengan tujuan mempermudah mahasiswa P
 - PHP
 - MySQL
 
-### Konsep OOP yang digunakan
+### Konsep OOP yang Digunakan
 Konsep OOP yang kami gunakan antara lain yaitu Inheritance dan Abstraction. Pada implementasi, kami menggunakan konsep Inheritance dengan kelas 'user' sebagai parent dan kelas 'admin' serta 'mahasiswa' sebagai childnya. Untuk Abstraction sendiri
 
-### Tipe desain pengembangan yang digunakan
+### Tipe Desain Pengembangan yang Digunakan
 Sistem kami menggunakan tipe desain MVC (Model View Controller). MVC adalah gabungan dari 3 sub direktori yakni model, view dan controller. ini ditandakan bahwa laravel sudah menerapkan konsep mvc dalam memisahkan logic-logic program agar lebih teratur dan mudah dikembangakan suatu saat.
-##### Model
+
+![mvc](https://user-images.githubusercontent.com/60083980/123521505-34fe5180-d6e1-11eb-8387-d00bf655cb3d.png)
+
+#### Model
 Model merupakan presentasi dari sebuah objek atau terdiri dari objek-objek terstruktur, yang mana tiap objek memiliki fungsi tersendiri sesuai kebutuhan. 
 
-##### View
+#### View
 View merupakan bagian yang menangani presentasion logic yang berfungsi untuk menerima dan mempresentasikan data kepada user.
 
-##### Controller
+#### Controller
 Controller merupakan bagian yang mengatur hubungan antara bagian model dan bagian view yang berfungsi untuk menerima request dan data dari user kemudian menentukan apa yang akan diproses oleh aplikasi.    
 
 
 ### Hasil dan Pembahasan
--------------------------
 #### _Use case diagram_
 ![use case diagram](https://user-images.githubusercontent.com/60083980/122014318-3e3a1500-cde9-11eb-8db3-13c1e488a0ae.png)
 
-#### _Activity diagram_
+#### _Activity Diagram_
 - __Mahasiswa__ <br><br>
 ![mahasiswa login](https://user-images.githubusercontent.com/60083980/122015042-f36ccd00-cde9-11eb-9133-45f3e907c58d.png)
 ![mahasiswa input resi](https://user-images.githubusercontent.com/60083980/122015062-f5cf2700-cde9-11eb-9ae6-64d1dc5080eb.png)
@@ -63,15 +64,15 @@ Controller merupakan bagian yang mengatur hubungan antara bagian model dan bagia
 ![petugas notifikasi](https://user-images.githubusercontent.com/60084300/122013464-67a67100-cde8-11eb-8efa-672b907b52ba.png)
 
 
-#### _Class diagram_
+#### _Class Diagram_
 ![class](https://user-images.githubusercontent.com/60083980/122013861-cbc93500-cde8-11eb-926a-d053fa29a4eb.png)
 
-#### _Entity relationship diagram_
+#### _Entity Relationship Diagram_
 ![erd](https://user-images.githubusercontent.com/60083980/122013747-accaa300-cde8-11eb-93d7-5732fb156db5.png)
 
-#### Arsitektur sistem
+#### Arsitektur Sistem
 
-#### Fungsi utama yang dikembangkan
+#### Fungsi Utama yang Dikembangkan
 
 #### Fungsi CRUD
 1. Create: Membuat daftar paket barang mahasiswa
@@ -94,10 +95,10 @@ Controller merupakan bagian yang mengatur hubungan antara bagian model dan bagia
 - Halaman Utama
 ![image](https://user-images.githubusercontent.com/56018683/122151843-780f2800-ce8a-11eb-9e5b-d72d5b4a42b2.png)
 
-### Saran untuk pengembangan selanjutnya
+### Saran untuk Pengembangan Selanjutnya
 Aplikasi yang kami kembangkan masih memiliki kekurangan, oleh karena itu perlu adanya proses pengembangan lebih lanjut sehingga aplikasi ini dapat digunakan dengan lebih baik. Kami menyarankan adanya pengembangan untuk mengimplementasikan fitur notifikasi yang ditujukan untuk mahasiswa, selain itu juga melakukan deployment terhadap aplikasi ini. Saran untuk pengembangan lanjutan ini tentu tidak terbatas hanya dengan apa yang sudah disebutkan sebelumnya dan segala bentuk pengembangan/pembaruan yang dapat meningkatkan fungsi dari aplikasi ini akan dipertimbangkan.
 
-### Developer dan job description
+### Developer dan Job Description
 ---------------------
 **Nama**|**NIM**|**Job Desc**|
 :-----:|:-----:|:-----:
