@@ -34,7 +34,7 @@ Konsep OOP yang kami gunakan antara lain yaitu Inheritance dan Abstraction. Pada
 ### Tipe Desain Pengembangan yang Digunakan
 Sistem kami menggunakan tipe desain MVC (Model View Controller). MVC adalah gabungan dari 3 sub direktori yakni model, view dan controller. ini ditandakan bahwa laravel sudah menerapkan konsep mvc dalam memisahkan logic-logic program agar lebih teratur dan mudah dikembangakan suatu saat.
 
-![mvc](https://user-images.githubusercontent.com/60083980/123521505-34fe5180-d6e1-11eb-8387-d00bf655cb3d.png)
+![mvc](https://user-images.githubusercontent.com/60083980/123521687-56ac0880-d6e2-11eb-9b9f-b3cd34ffad06.png)
 
 #### Model
 Model merupakan presentasi dari sebuah objek atau terdiri dari objek-objek terstruktur, yang mana tiap objek memiliki fungsi tersendiri sesuai kebutuhan. 
