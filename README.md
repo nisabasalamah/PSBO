@@ -66,7 +66,7 @@ Sistem kami menggunakan arsitektur MVC (Model View Controller). MVC adalah gabun
 Model merupakan presentasi dari sebuah objek atau terdiri dari objek-objek terstruktur, yang mana tiap objek memiliki fungsi tersendiri sesuai kebutuhan. 
 
 ##### View
-Controller merupakan bagian yang menangani presentasion logic yang berfungsi untuk menerima dan mempresentasikan data kepada user.
+View merupakan bagian yang menangani presentasion logic yang berfungsi untuk menerima dan mempresentasikan data kepada user.
 
 ##### Controller
 Controller merupakan bagian yang mengatur hubungan antara bagian model dan bagian view yang berfungsi untuk menerima request dan data dari user kemudian menentukan apa yang akan diproses oleh aplikasi.    
