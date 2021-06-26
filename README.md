@@ -95,6 +95,7 @@ Controller merupakan bagian yang mengatur hubungan antara bagian model dan bagia
 ![image](https://user-images.githubusercontent.com/56018683/122151843-780f2800-ce8a-11eb-9e5b-d72d5b4a42b2.png)
 
 ### Saran untuk pengembangan selanjutnya
+Aplikasi yang kami kembangkan masih memiliki kekurangan, oleh karena itu perlu adanya proses pengembangan lebih lanjut sehingga aplikasi ini dapat digunakan dengan lebih baik. Kami menyarankan adanya pengembangan untuk mengimplementasikan fitur notifikasi yang ditujukan untuk mahasiswa, selain itu juga melakukan deployment terhadap aplikasi ini. Saran untuk pengembangan lanjutan ini tentu tidak terbatas hanya dengan apa yang sudah disebutkan sebelumnya dan segala bentuk pengembangan/pembaruan yang dapat meningkatkan fungsi dari aplikasi ini akan dipertimbangkan.
 
 ### Developer dan job description
 ---------------------
